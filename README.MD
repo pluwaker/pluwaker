@@ -1,12 +1,36 @@
 <div align="center">
 <img src="https://media1.tenor.com/m/_DOBjnGspYAAAAAC/code-coding.gif" align="center" style="width: 100%" />
 </div>  
-  
 
-<br/>  
+<br/>
 
+<div align="center">
+  <h1>👋 Привет, меня зовут Pluwaker!</h1>
+  <h3>💻 Разработчик программного обеспечения</h3>
+</div>
 
-## My Skill Set  
+<br/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&color=00D9FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!;Nice+to+meet+you!+%F0%9F%91%8B" />
+</div>
+
+<br/>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pluwaker&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pluwaker&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<br/>
+
+---
+
+## 🛠️ My Skill Set
 <div align="center">
 <table><tr><td valign="top" width="33%">
 
@@ -43,4 +67,38 @@
 </div>
 
 </td></tr></table>
+</div>
+
+<br/>
+
+---
+
+## 📈 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pluwaker&theme=tokyo-night&hide_border=true" />
+</div>
+
+<br/>
+
+---
+
+## 🤝 Connect with Me
+
+<div align="center">
+  <a href="https://github.com/pluwaker" target="_blank">
+    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=pluwaker&label=Profile%20views&color=0e75b6&style=flat" alt="pluwaker" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </div>
