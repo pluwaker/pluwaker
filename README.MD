@@ -15,18 +15,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&color=00D9FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!;Nice+to+meet+you!+%F0%9F%91%8B" />
 </div>
 
-<br/>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pluwaker&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pluwaker&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<br/>
 
 ---
 
@@ -73,10 +62,18 @@
 
 ---
 
-## 📈 GitHub Activity
+## 💡 About Me
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pluwaker&theme=tokyo-night&hide_border=true" />
+  <p>🎯 Постоянно изучаю новые технологии и совершенствую свои навыки</p>
+  <p>🚀 Создаю проекты и экспериментирую с различными технологиями</p>
+  <p>💬 Всегда открыт к общению и сотрудничеству</p>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random quote" />
 </div>
 
 <br/>
